@@ -1,0 +1,9 @@
+body {
+    text-align:center;
+    font-family: helvetica;
+    color:black;
+  }
+  canvas {
+    border: 2px solid rgb(0, 0, 0);
+    color:white;
+  }
